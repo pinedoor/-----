@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\installpackages_f\\ue5.6\\fpsmygame_1130\\intermediate\\source\\fpsmygame.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\installpackages_f\\ue5.6\\fpsmygame_1130\\intermediate\\build\\win64\\x64\\fpsmygame\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\installpackages_f\\ue5.6\\fpsmygame_1130\\intermediate\\build\\win64\\x64\\unrealgame\\development\\fpsmygame\\definitions.fpsmygame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

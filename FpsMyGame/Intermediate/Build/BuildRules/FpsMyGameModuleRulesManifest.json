@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"F:\\InstallPackages_F\\UE5.6\\FpsMyGame_1203 - 副本 - 副本\\Intermediate\\Source\\FpsMyGame.Build.cs",
+		"F:\\InstallPackages_F\\UE5.6\\FpsMyGame_1203 - 副本 - 副本\\Intermediate\\Source\\FpsMyGame.Target.cs",
+		"F:\\InstallPackages_F\\UE5.6\\FpsMyGame_1203 - 副本 - 副本\\Intermediate\\Source\\FpsMyGameClient.Target.cs",
+		"F:\\InstallPackages_F\\UE5.6\\FpsMyGame_1203 - 副本 - 副本\\Intermediate\\Source\\FpsMyGameEditor.Target.cs",
+		"F:\\InstallPackages_F\\UE5.6\\FpsMyGame_1203 - 副本 - 副本\\Intermediate\\Source\\FpsMyGameServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
